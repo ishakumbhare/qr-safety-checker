@@ -3,7 +3,7 @@
 A cybersecurity tool that checks whether a URL from a QR code is safe or suspicious.
 
 ## 🚀 Live Demo
-👉 [Click here to try it](https://yourusername.github.io/qr-safety-checker)
+👉 [Click here to try it](https://ishakumbhare.github.io/qr-safety-checker)
 *(Replace `yourusername` with your GitHub username)*
 
 ---
